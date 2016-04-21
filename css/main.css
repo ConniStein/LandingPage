@@ -1,0 +1,101 @@
+/* Tu CSS va aqui */
+*{
+	font-family: Arial;
+}
+
+.text-white{
+	color:#FFF;
+}
+
+.text-gray{
+	color: #eaeaea;
+}
+
+.text-mediumgray{
+	color: #b4b2b2;
+}
+
+.text-darkgray{
+	color: #6f6f6f;
+}
+
+.menu{
+	max-width: 100%;
+	padding:20px;
+	height: 80px;
+}
+
+.logo{
+	height: 40px;
+	margin-left: 20%;
+}
+
+.menu-lista{
+	list-style: none;
+	display: inline-block;
+	margin-top: 2%;
+	padding-right: 30px;
+}
+
+.bg-gray{
+	background-color: #6f6f6f;
+	height: 400px;
+	padding:50px;
+	margin-bottom: 10px;
+}
+
+
+.caja-texto{
+	width: 65%;
+	margin-right: 50px;
+	float: right;
+}
+
+h1{
+	margin-bottom: 40px;
+	font-size: 42px;
+}
+
+.parrafo{
+	font-size: 12px;
+}
+
+.caja-started{
+	background-color:#b4b2b2;
+	border-radius: 5%;
+	height: 160px;
+	width: 50%;
+	padding:15px;
+}
+
+.texto-get{
+	text-align: center;
+	font-weight: bold;
+}
+
+.caja-blanca{
+	width: 90%;
+	height: 30px;
+	background-color: #FFF;
+	margin:7px;
+	padding: 5px;
+	font-size: 14px;
+}
+
+.caja-azul{
+	background-color: #1ea7ba;
+	text-align: center;
+	padding:7px;
+	height: 30px;
+	width: 90%;
+	margin: 7px;
+}
+
+.text-footer{
+	margin-left: 200px;
+	font-size: 14px;
+}
+
+.linkfooter{
+	text-decoration: none;
+}
